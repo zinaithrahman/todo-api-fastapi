@@ -19,3 +19,9 @@ This is a simple To-Do List API built using *FastAPI* and *Python* as part of th
 
 ```bash
 .\venv\Scripts\activate
+
+## 📊 Test Coverage
+
+Below is the test coverage report generated using coverage.py.
+
+![Coverage Report](./coverage.png)
